@@ -15,11 +15,6 @@ import org.springframework.core.env.Environment;
  * Created by morgan on 04.03.2020
  */
 @Configuration
-//@PropertySource({"classpath:datasource.properties","classpath:jms.properties"})
-@PropertySources({
-        @PropertySource("classpath:datasource.properties"),
-        @PropertySource("classpath:jms.properties")
-})
 public class PropertyConfig {
 
     @Autowired
