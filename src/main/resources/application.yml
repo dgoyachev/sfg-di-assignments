@@ -7,3 +7,17 @@ guru:
   user: "Username"
   password: "somepassword"
   dburl: "jkhfkjhkhsfsdkk"
+
+---
+spring:
+  profiles: "es"
+
+guru:
+  jms:
+    user: "JMS ES Username"
+    password: "some_jms_password"
+    url: "jms://some.url"
+
+  user: "ES Username"
+  password: "somepassword"
+  dburl: "jkhfkjhkhsfsdkk"
