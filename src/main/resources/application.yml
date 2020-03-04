@@ -1,0 +1,9 @@
+guru:
+  jms:
+    user: "JMS Username"
+    password: "some_jms_password"
+    url: "jms://some.url"
+
+  user: "Username"
+  password: "somepassword"
+  dburl: "jkhfkjhkhsfsdkk"

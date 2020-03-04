@@ -1,0 +1,37 @@
+# comment
+
+name: Dan
+
+names:
+  - John
+  - Paul
+  - Ringo
+
+pound_sigh: "#"
+
+book:
+  author: "John Smith"
+  title: "How to fool them all"
+
+truth: yes
+another_truth: True
+more_truth: true
+
+lie: no #False, false
+
+multi_line_with_newlines: |
+  multi
+  line
+  text
+  with
+  newline
+  chars
+
+multi_line_without_newlines: >
+  multi
+  line
+  text
+  without
+  newline
+  chars
+
